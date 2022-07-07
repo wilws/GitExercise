@@ -1,1 +1,2 @@
 Step  1 - My First to Githhub
+Step  2 - I have Cloned the GitExercise to local machine
